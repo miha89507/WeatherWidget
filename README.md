@@ -12,7 +12,9 @@ Pet weather widget project in C++ QT6
 ## Screenshot of WeatherWidget
 
 ![image](https://github.com/miha89507/WeatherWidget/assets/35353977/b5745095-1dd4-4e2c-8f03-60bcf5291683)
-![image](https://github.com/miha89507/WeatherWidget/assets/35353977/a447aab1-dae1-440a-8ff5-28465a1f8158)
+![image](https://github.com/miha89507/WeatherWidget/assets/35353977/15593a05-d426-4f44-9d75-b813130a050c)
+
+
 
 
 ## Description
